@@ -1,0 +1,10 @@
+matplotlib
+pandas
+openpyxl
+jupyterlab
+scipy
+altair
+vega_datasets
+notebook
+vega
+plotly
